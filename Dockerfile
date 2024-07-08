@@ -48,4 +48,4 @@ RUN /app/install.sh -y \
 RUN npm install || true
 
 # Command to run the application
-CMD ["npm", "start"]
+# CMD ["npm", "start"]
